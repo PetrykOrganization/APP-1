@@ -17,7 +17,7 @@
     [MessageHandler]
     procedure HelloWorldMessageHandler(Message: Text[1024])
     begin
-        MessageDisplayed := MessageDisplayed or (Message = 'App published: Hello G Mediator world');
+        MessageDisplayed := MessageDisplayed or (Message = 'App published: Hell you');
     end;
 
     var
