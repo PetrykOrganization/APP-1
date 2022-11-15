@@ -1,5 +1,9 @@
 {
     "type":  "PTE",
     "templateUrl":  "https://github.com/microsoft/AL-Go-PTE@main",
-    "environments": ["BCDENMARKSANDBOX"]
+    "environments": [
+                        "BCDENMARKSANDBOX",
+                        "BCSANDBOX3",
+                        "Production"
+                    ]
 }
